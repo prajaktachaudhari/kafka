@@ -10,7 +10,7 @@
 #  See the License for the specific language governing permissions and
 #  limitations under the License.
 
-arch: amd64
+arch: s390x
 os: linux
 dist: bionic
 language: java
